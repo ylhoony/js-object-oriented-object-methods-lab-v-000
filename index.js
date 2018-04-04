@@ -19,5 +19,3 @@
    }
  }
 
-const bob = new BoardMember("Bob", "CA", "Ruby");
-console.log(bob.sayHi());
