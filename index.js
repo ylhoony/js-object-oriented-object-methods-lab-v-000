@@ -20,3 +20,4 @@
  }
 
 const bob = ("Bob", "CA", "Ruby")
+bob.sayHi();
