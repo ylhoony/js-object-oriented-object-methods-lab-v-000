@@ -20,4 +20,4 @@
  }
 
 const bob = new BoardMember("Bob", "CA", "Ruby");
-bob.sayHi();
+console.log(bob.sayHi());
