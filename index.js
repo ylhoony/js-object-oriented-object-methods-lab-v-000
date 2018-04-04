@@ -19,5 +19,5 @@
    }
  }
 
-const bob = ("Bob", "CA", "Ruby")
+const bob = new BoardMember("Bob", "CA", "Ruby");
 bob.sayHi();
